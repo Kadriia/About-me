@@ -1,4 +1,3 @@
-# About-me
 # 💫 About Me:
 I'm a beginner QA or a university teacher who is starting over a new career in QA. 
 
